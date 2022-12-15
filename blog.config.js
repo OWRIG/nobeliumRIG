@@ -42,8 +42,8 @@ const BLOG = {
       repo: 'OWRIG/nobeliumRIG', // The repository of store comments
       owner: 'OWRIG',
       admin: ['OWRIG'],
-      clientID: 'b152184c7e72238a81c6',
-      clientSecret: '93fc7ca4affe6724c55b5727086cedf03a2d964b',
+      clientID: '9f47acd49a0d9261adfe',
+      clientSecret: 'ee7c01a434e0bd90b2f3adefdbbe9a511a3a402b',
       distractionFreeMode: false
     },
     utterancesConfig: {
