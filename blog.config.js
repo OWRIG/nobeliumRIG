@@ -19,7 +19,7 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/craigaryhart',
   seo: {
-    keywords: ['Blog', 'Website', 'Notion', 'RIG', 'OWRIG', '每日奇思'],
+    keywords: ['Blog', 'Website', 'Notion', 'RIG', 'OWRIG', '每日奇思', 'OWRIG BLOG'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: 'd60dda132df04ae487b0c9f3e34c9fd9', // DO NOT CHANGE THIS

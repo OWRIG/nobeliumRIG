@@ -70,12 +70,13 @@ const Header = ({ navBarTitle, fullWidth }) => {
         <div className="flex items-center">
           <Link href="/">
             <a aria-label={BLOG.title}>
-              <div className="h-6 rounded-full">
+              <div className="h-8 rounded-full">
                 <Image
-                  src={'/rig-avatar-small.jpg'}
+                  src={'/avatar.jpg'}
                   alt="Rig's Avatar"
-                  width={24}
-                  height={24}
+                  width={32}
+                  height={32}
+                  priority
                 />
               </div>
             </a>
